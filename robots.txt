@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://basame.cn/sitemap.xml
